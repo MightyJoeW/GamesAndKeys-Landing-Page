@@ -1,22 +1,42 @@
 <!-- updated version (without bootstrap) -->
 <!DOCTYPE html>
-<html>
+<html lang=en>
 <head>
   <title>Games and Keys</title>
   <link rel="stylesheet" type="text/css" href="app.css">
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
 </head>
 <body>
   <header id="header">
     <nav id="nav-bar">
       <div class="topnav" id="myTopnav">
-        <a href="#home">Home</a>
-        <a href="#about">About</a>
-        <a href="#contact">Contact</a>
+        <div>
+          <a class="nav-link" href="#"><i class="fa fa-headphones" aria-hidden="true"></i> Games And Keys</a>
+        </div>
+        <a class="nav-link" href="#home">Home</a>
+        <a class="nav-link" href="#about">About</a>
+        <a class="nav-link" href="#contact">Contact</a>
       </div>
     </nav>
   </header>
-
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <div id="titleBlock">
+          <h1>Games and Keys</h1>
+          <h3>Video Game Piano Tutorials, Sheet Music, & Midi Files</h3>
+          <hr>
+          <br>
+          <form id="form">
+            <input type="text" class="input-field" name="name" value="name" placeholder="Name" autofocus required>  <br>
+            <input type="email" class="input-field" name="email" value="email" placeholder="Email" required><br>
+            <button id="submit"><i class="fa fa-play" aria-hidden="true"></i> Get Started!</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
 
 </body>
 </html>
