@@ -1,6 +1,6 @@
 # gak-landing-page
-GamesAndKeys.com is a site I previously created dedicated to video game piano music. Users can visit the page to watch video game piano tutorials or download sheet music and midi files. 
+GamesAndKeys.com is a website that I created years ago which focused on teaching how to play video game songs on the piano. Users can visit the page to watch video game piano tutorials or download sheet music and midi files. 
 
-The site was put together years ago with Blogger, so this Landing Page in the making will eventually the Games and Keys homepage. 
+The original site was put together in Blogger, so this Landing Page in the making will eventually replace the Games and Keys homepage. 
 
-The idea of rebuilding the Games and Keys site came from the freeCodeCamp Landing Page project that I am currently working on.
+The idea of rebuilding the GamesAndKeys.com site came from the freeCodeCamp Landing Page project that I am currently working through.
