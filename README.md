@@ -13,4 +13,4 @@ Games and Keys was created out of the love for video game music as well as the d
 Because of the positive feedback, I created a Synthesia piano tutorial for the theme and uploaded to YouTube. The tutorial led to many turorial requests for other game themes which evolved into a growing collection of tutorials, sheet music, and midi files. 
 
 ## Where to find it?
-The old [GamesAndKeys.com](www.gamesandkeys.com) is still live on Blogger. The site was initially created simply to provide users with a place to download sheet music and midi files, so I will be transitioning to the Bootstrap and jQuery-powered responsive website once these new pages are finished.
+The old [GamesAndKeys.com](http://www.gamesandkeys.com/) is still live on Blogger. The site was initially created simply to provide users with a place to download sheet music and midi files, so I will be transitioning to the Bootstrap and jQuery-powered responsive website once these new pages are finished.
