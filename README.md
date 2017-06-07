@@ -1,4 +1,4 @@
-# GamesAndKeys.com
+# [GamesAndKeys.com](https://mightyjoew.github.io/GamesAndKeys-Landing-Page/)
 ## Video Game Piano Tutorials, Sheet Music, & Midi Files
 
 ### What is it?
